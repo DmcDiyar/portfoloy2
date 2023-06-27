@@ -1,0 +1,21 @@
+.resim{
+border: 5px solid white ;
+width: 100%;
+}
+
+body{
+    background-color: black;
+}
+.poster{
+    width: 50%;
+    margin-left: 25%;
+    margin-top:100px;
+    text-align: center;
+    font-family: 'Libre Baskerville', serif;
+    color: white;
+
+}
+h1{
+    font-size: 1rem;
+    text-transform: uppercase;
+}
