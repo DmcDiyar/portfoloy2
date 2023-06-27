@@ -1,10 +1,11 @@
 .resim{
 border: 5px solid white ;
 width: 100%;
+
 }
 
 body{
-    background-color: black;
+    background-color: #000000;
 }
 .poster{
     width: 50%;
@@ -18,4 +19,21 @@ body{
 h1{
     font-size: 1rem;
     text-transform: uppercase;
+}
+
+.second{
+    width: 100%;
+    
+}
+
+.not2{
+    width:100%;
+    border: 1px solid rgb(107, 104, 104);
+    
+    
+}
+.not{
+    width: 100%;
+    border: 1px solid rgb(107, 104, 104);
+    
 }
